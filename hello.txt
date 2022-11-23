@@ -4,5 +4,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-hello atguigu! hello git!  master slave
-hello atguigu! hello git!
+hello atguigu! hello git!  master slaive
+hello atguigu! hello git! hot-fix test
